@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure--l80_a)43!#h6n)9t6jotxaou7&4%-mo1w%p#qcpxg3vakf+5p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["snchzzero.pythonanywhere.com"]
 
 
 # Application definition
@@ -118,6 +118,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'static'
 
 MEDIA_URL = '/media/'   # задает адрес по которому будут прикрепляться изображения
 MEDIA_ROOT = BASE_DIR / 'media'  # создаем папку media где будут хранится наши медиа файлы для разных приложений (portfolio, blog)
