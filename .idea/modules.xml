@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../django3-personal-portfolio-master/.idea/django3-personal-portfolio-master.iml" filepath="$PROJECT_DIR$/../django3-personal-portfolio-master/.idea/django3-personal-portfolio-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../password_generator/.idea/password_generator.iml" filepath="$PROJECT_DIR$/../password_generator/.idea/password_generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personal_portfolio-project.iml" filepath="$PROJECT_DIR$/.idea/personal_portfolio-project.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/password_generator.iml" filepath="$PROJECT_DIR$/.idea/password_generator.iml" />
->>>>>>> 322ebec6940a2c54ccaaab1807344b8ee285e5e7
     </modules>
   </component>
 </project>
