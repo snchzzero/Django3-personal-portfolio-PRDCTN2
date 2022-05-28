@@ -6,6 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="password_generator" />
     <orderEntry type="module" module-name="django3-personal-portfolio-master" />
+    <orderEntry type="module" module-name="todowoo-project" />
+    <orderEntry type="module" module-name="django3-todowoo-project-master" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
