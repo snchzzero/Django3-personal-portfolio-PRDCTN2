@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Проекты/Telegram/Bot_2/.idea/Bot_2.iml" filepath="$PROJECT_DIR$/../Проекты/Telegram/Bot_2/.idea/Bot_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Проекты/Telegram/Bot_repeat_all_messages/.idea/Bot_repeat_all_messages.iml" filepath="$PROJECT_DIR$/../Проекты/Telegram/Bot_repeat_all_messages/.idea/Bot_repeat_all_messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Telegram_bot_weather/.idea/Telegram_bot_weather.iml" filepath="$PROJECT_DIR$/../Telegram_bot_weather/.idea/Telegram_bot_weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/../django3-personal-portfolio-master/.idea/django3-personal-portfolio-master.iml" filepath="$PROJECT_DIR$/../django3-personal-portfolio-master/.idea/django3-personal-portfolio-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Проекты/django3-todowoo-project-master/.idea/django3-todowoo-project-master.iml" filepath="$PROJECT_DIR$/../Проекты/django3-todowoo-project-master/.idea/django3-todowoo-project-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../password_generator/.idea/password_generator.iml" filepath="$PROJECT_DIR$/../password_generator/.idea/password_generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personal_portfolio-project.iml" filepath="$PROJECT_DIR$/.idea/personal_portfolio-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../todowoo-project/.idea/todowoo-project.iml" filepath="$PROJECT_DIR$/../todowoo-project/.idea/todowoo-project.iml" />
     </modules>
   </component>
 </project>

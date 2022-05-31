@@ -6,8 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="password_generator" />
     <orderEntry type="module" module-name="django3-personal-portfolio-master" />
-    <orderEntry type="module" module-name="todowoo-project" />
-    <orderEntry type="module" module-name="django3-todowoo-project-master" />
+    <orderEntry type="module" module-name="Bot_repeat_all_messages" />
+    <orderEntry type="module" module-name="Bot_2" />
+    <orderEntry type="module" module-name="Telegram_bot_weather" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
