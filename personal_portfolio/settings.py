@@ -129,7 +129,7 @@ MEDIA_ROOT = BASE_DIR / 'media'  # создаем папку media где буд
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # добавляем возможность загрузки локальных настроек для файла setings, для локальной отладки
-# try:
-#     from .local_setings import *
-# except ImportError:
-#     print("Looks like no local file. You must be on production")
+try:
+    from .local_setings import *
+except ImportError:
+    print("Looks like no local file. You must be on production")
